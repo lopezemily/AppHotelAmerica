@@ -1,4 +1,4 @@
-package fornecedores;
+package hospedes;
 import java.awt.*;
 import java.awt.event.*;
 import java.sql.*;
