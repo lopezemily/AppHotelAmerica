@@ -1,0 +1,43 @@
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+/problemas/exercicio01/media/nbproject/private/
+/problemas/exercicio01/media/build/
+/problemas/exercicio02/media parcial/nbproject/private/
+/problemas/exercicio02/media parcial/build/
+/problemas/exercicio03/notas conceito/nbproject/private/
+/problemas/exercicio03/notas conceito/build/
+/problemas/exercicio04/triangulo/nbproject/private/
+/problemas/exercicio04/triangulo/build/
+/problemas/exercicio06/crime/nbproject/private/
+/problemas/exercicio06/QQ1/nbproject/private/
+/problemas/exercicio06/QQ1/build/
+/problemas/exercicio06/Vetor2/nbproject/private/
+/problemas/exercicio06/Vetor2/build/
+/vetores/Exercicio1/nbproject/private/
+/vetores/Exercicio1/build/
+/vetores/teste/nbproject/private/
+/vetores/teste/build/
+/vetores/teste2/nbproject/private/
+/vetores/teste2/build/
+/vetores/Rev_Ex1/nbproject/private/
+/vetores/Rev_Ex1/build/
